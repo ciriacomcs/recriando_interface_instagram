@@ -1,2 +1,4 @@
 # recriando_interface_instagram
-Desafio DIO - Criando a interface do Instagram
+Desafio DIO - Recriando a interface do Instagram
+
+<h1 align="center">Recriando a interface do Instagram</h1>
